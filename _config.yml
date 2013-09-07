@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: "Coding with Colors"
+description: "imagineer's weblog"
+
 markdown: redcarpet
 pygments: true
