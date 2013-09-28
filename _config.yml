@@ -1,5 +1,6 @@
 name: "Coding with Colors"
 description: "imagineer's weblog"
+author: "Praseetha KR"
 
 markdown: redcarpet
 pygments: true

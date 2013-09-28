@@ -1,0 +1,21 @@
+$serif: 'Headland One', 'Georgia', serif;
+$sans: 'Oswald', 'Archivo Narrow', sans-serif;
+
+.site{
+	font-family: $serif;
+}
+header, h1, h2, h3, h4{
+	font-family: $sans;
+}
+p{
+	font-size: 0.9em;
+	line-height: 1.5em;
+
+  text-align: justify;
+  word-break: break-word;
+  hyphens: auto;
+}
+.social a{
+	text-decoration: none;
+	color: #333;
+}
